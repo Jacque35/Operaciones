@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package ejercicio17;
+package Clculadora;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
